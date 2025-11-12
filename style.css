@@ -12,7 +12,7 @@ header {
     color: rgb(255, 255, 255);
 }
 
-section {
+.chamada{
     background-color: #ffc5fc;
     padding-bottom: 80px;
     display: flex;
@@ -28,4 +28,16 @@ h1{
 
 p{
     font-size: 20px;
+}
+img{
+    height:200px;
+}
+.categoria-vídeos{
+    display:flex;
+    overflow-x: auto;
+    gap:10px;
+}
+.categoria{
+    padding-left: 20px;
+    padding-right: 20px;
 }
