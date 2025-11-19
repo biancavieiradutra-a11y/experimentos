@@ -2,7 +2,7 @@ body {
     color: rgb(255, 255, 255);
     background: #ffc5fc;
     margin: 0px;
-    font-familly:"Libertinus Serif Display", sans-serif;
+    font-family:"Libertinus Serif Display", sans-serif;
     margin-bottom: 100px;
 }
 
@@ -31,7 +31,7 @@ p{
     font-size: 20px;
 }
 
-.categoria-vídeos{
+.categoria-videos{
     display:flex;
     overflow-x: auto;
     gap:10px;
@@ -41,11 +41,11 @@ p{
     padding-right: 20px;
     margin-top: 50px;
 }
-.categoria-vídeos img{
+.categoria-videos img{
     opacity: 0.5;
     height: 200px;
 }
-.categoria-vídeos img:hover{
+.categoria-videos img:hover{
     opacity:1.0;
     border: 1px solid rgb(252, 174, 219);
 }
